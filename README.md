@@ -10,7 +10,7 @@ In this internship, we were provided a total of 6 Tasks and I was able to succes
 
 # Task1
 
-#### Prediction using Supervised ML
+## Prediction using Supervised ML
 
 ● Dataset : http://bit.ly/w-data
 
@@ -23,7 +23,7 @@ In this internship, we were provided a total of 6 Tasks and I was able to succes
 
 # Task2
 
-**Prediction using Unsupervised ML
+## Prediction using Unsupervised ML
 
 ● Dataset : https://bit.ly/3kXTdox
 
@@ -31,7 +31,7 @@ In this internship, we were provided a total of 6 Tasks and I was able to succes
 
 # Task 3
 
-**Exploratory Data Analysis
+## Exploratory Data Analysis
 
 ● Dataset: https://bit.ly/3i4rbWl
 
@@ -43,7 +43,7 @@ In this internship, we were provided a total of 6 Tasks and I was able to succes
 
 # Task 4
 
-**Exploratory Data Analysis-Terrorism
+## Exploratory Data Analysis-Terrorism
 
 ● Dataset: https://bit.ly/2TK5Xn5
 
@@ -55,7 +55,7 @@ In this internship, we were provided a total of 6 Tasks and I was able to succes
 
 # Task 5
 
-**Exploratory Data Analysis - Sports
+## Exploratory Data Analysis - Sports
 
 ● Dataset:https://bit.ly/34SRn3b
 
@@ -68,7 +68,7 @@ In this internship, we were provided a total of 6 Tasks and I was able to succes
 
 # Task 6
 
-**Prediction using Decision Tree Algorithm
+## Prediction using Decision Tree Algorithm
 
 ● Dataset : https://bit.ly/3kXTdox
 
@@ -79,7 +79,7 @@ In this internship, we were provided a total of 6 Tasks and I was able to succes
 
 # Task 7
 
-**Stock Market Prediction using Numerical and Textual Analysis
+## Stock Market Prediction using Numerical and Textual Analysis
 
 ● Download textual (news) data from https://bit.ly/36fFPI6
 
@@ -92,7 +92,7 @@ In this internship, we were provided a total of 6 Tasks and I was able to succes
 
 # Task 8
 
-****Timeline Analysis : Covid-19
+## Timeline Analysis : Covid-19
 
 ● Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
 
