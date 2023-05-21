@@ -2,7 +2,7 @@
 
 # The Sparks Foundation Tasks
 
-## This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
+### This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
 
 Internship Category - Data Science and Business Analytics
 Internship Type - Work from Home
@@ -10,7 +10,7 @@ In this internship, we were provided a total of 6 Tasks and I was able to succes
 
 # Task1
 
-**Prediction using Supervised ML
+#### Prediction using Supervised ML
 
 ● Dataset : http://bit.ly/w-data
 
