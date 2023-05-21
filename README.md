@@ -92,7 +92,9 @@ In this internship, we were provided a total of 6 Tasks and I was able to succes
 
 # Task 8
 
-**Timeline Analysis : Covid-19
+****Timeline Analysis : Covid-19
+
+● Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
 
 ● Create a storyboard showing spread of Covid-19 cases in your country or any region (Asia, Europe, BRICS etc) using Tableau, Power BI or SAP
 
@@ -102,7 +104,7 @@ In this internship, we were provided a total of 6 Tasks and I was able to succes
 
 ● Screen-record the completed storyboard along with your audio explaining the charts and giving recommendations.
 
-● Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
+
 
 
 
