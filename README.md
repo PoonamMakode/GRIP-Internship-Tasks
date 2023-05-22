@@ -76,7 +76,7 @@ In this internship, we were provided a total of 6 Tasks and I was able to succes
 
 ● The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
 
-
+<!-- 
 # Task 7
 
 ## Stock Market Prediction using Numerical and Textual Analysis
@@ -102,7 +102,7 @@ In this internship, we were provided a total of 6 Tasks and I was able to succes
 
 ● Identify interesting patterns and possible reasons helping Covid-19 spread with basic as well as advanced charts
 
-● Screen-record the completed storyboard along with your audio explaining the charts and giving recommendations.
+● Screen-record the completed storyboard along with your audio explaining the charts and giving recommendations. -->
 
 
 
